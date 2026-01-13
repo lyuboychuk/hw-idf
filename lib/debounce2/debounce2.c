@@ -36,7 +36,7 @@ void main_task()
         portEXIT_CRITICAL_ISR(&mux); 
         if (doLogging) 
         {
-            ESP_LOGI(TAG, "counter %d, test %d",counter);
+            ESP_LOGI(TAG, "counter %d",counter);
             doLogging=false;
         }
             
