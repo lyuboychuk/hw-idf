@@ -1,4 +1,4 @@
-# Main files to tasks mapping
+# Code files to tasks mapping
     Lib \ debounce \ debounce.h
     - BTN_PIN1 defines pin
     - #define MODULE_2_6_T1 - task 1 for 2.6 module
