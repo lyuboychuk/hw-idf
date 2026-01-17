@@ -18,3 +18,8 @@
             task implementation
     Lib \ debounce \ debounce.c
         Setup() configs PINs and ISR
+# usabilty 
+    platformio.ini
+    example will set to compile  the task 3
+        build_flags =     
+        -D MODULE_2_6_T3  
