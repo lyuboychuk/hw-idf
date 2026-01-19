@@ -32,4 +32,4 @@
 | Time-based   | 0                           | 50ms     | mid        |                                                          |
 | State-based  | 0                           | 50ms     | high       |                                                          |
 | Polling      | 0                           | 10ms     | low        | деякі натиснення пропускаються коли дуже часто натискати |
-| Hardware RC  | від 0-2 раз                 | 0 ms     | low        | Збірка "без debounce" і зовнішня мебранна кнопка         |
+| Hardware RC  | від 0-2 раз                 | 0 ms     | mid        | Збірка "без debounce" і зовнішня мебранна кнопка         |
