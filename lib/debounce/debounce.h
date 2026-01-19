@@ -8,8 +8,8 @@
 #include "esp_timer.h"
 #include "esp_log.h"
 
-#define LED_PIN1 18
-#define BTN_PIN1 0
+#define LED_PIN1 7
+#define BTN_PIN1 15
 
 extern const char *TAG;
 extern void btn_pressed_hdlr(void *arg);
